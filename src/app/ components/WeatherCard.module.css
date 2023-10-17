@@ -1,0 +1,19 @@
+
+.WeatherCardWrapper {
+    border: 1px solid black;
+    padding: 30px;
+}
+
+.WeatherCardImage {
+    height: auto;
+    width: 120px;
+}
+
+.WeatherCardImage svg {
+    height: auto;
+    width: 100%;
+}
+
+.WeatherCardContent {
+    font-size: 20px;
+}
