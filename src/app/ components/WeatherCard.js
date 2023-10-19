@@ -25,9 +25,9 @@ const WeatherCard = ({
             <div className={styles.WeatherCardDetails}>
                 <p>Weather Type: {weatherType}</p>
                 <p>Highest Temperature: {highTemperature}</p>
-                <p>Lowest Temperature:{lowTemperature}</p>
+                <p>Lowest Temperature: {lowTemperature}</p>
                 <p>Cloudiness: {cloudiness}</p>
-                <p>Humidity:{huimidity}</p>
+                <p>Humidity: {huimidity}</p>
                 <p>Wind Speed: {windSpeed}</p>
             </div>
         </div>

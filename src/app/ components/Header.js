@@ -2,10 +2,10 @@
 const Header = () => (
     <header>
         <nav>
-            <a href="/Tokyo">Tokyo</a>
-            <a href="/Boston">Boston</a>
-            <a href="/Paris">Paris</a>
-            <a href="/Chicago">Chicago</a>
+            <b><a href="/Tokyo">Tokyo</a></b>
+            <b><a href="/Boston">Boston</a></b>
+            <b><a href="/Paris">Paris</a></b>
+            <b><a href="/Chicago">Chicago</a></b>
         </nav>
     </header>
 );

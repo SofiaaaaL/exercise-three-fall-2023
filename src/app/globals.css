@@ -11,12 +11,9 @@ body {
 }
 
 body {
-  padding: 20px 50px 0 50px;
-  /* background-color: ; */
-}
-
-body h1 {
-  padding: 0 0 10px 0;
+  /* padding: 20px 50px 0 50px; */
+  background-color: rgb(77, 155, 192);
+  color: azure;
 }
 
 a {
@@ -25,7 +22,8 @@ a {
 }
 
 header {
-  background-color:azure; 
+  /* background-color: rgb(178, 215, 228); */
+  padding: 20px 50px;
 }
 
 header nav {
@@ -34,6 +32,10 @@ header nav {
   justify-content: flex-end;
   gap: 20px;
   padding: 10px 20px;
+}
+
+main {
+  padding: 40px 70px;
 }
 
 

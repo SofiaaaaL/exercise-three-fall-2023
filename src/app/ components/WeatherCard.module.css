@@ -1,6 +1,5 @@
 
 .WeatherCardWrapper {
-    border: 1px solid black;
     padding: 30px;
 }
 
@@ -16,4 +15,13 @@
 
 .WeatherCardContent {
     font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.WeatherCardDetails {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
